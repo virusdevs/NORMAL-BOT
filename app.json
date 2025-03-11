@@ -98,7 +98,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"VIRUSI-MBAYA",
       "required":false
 
     } ,
@@ -118,11 +118,11 @@
 	,
     "HEROKU_API_KEY": {
     "description": "Insert your heroku api-key copy it from your heroku account settings",
-     "required" :true 
+     "required" :false 
     },
   "HEROKU_APP_NAME": {
     "description": "Insert your heroku APP NAME enter same as the app name exactly, the fast name up there ",
-     "required" :true 
+     "required" :false 
     }  
 	  ,
     "NUMERO_OWNER":
@@ -138,7 +138,7 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "Kondoms 𝐀peks"
+    "value": "VIRUSI 🦠 MBAYA"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
@@ -149,7 +149,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "2"
   },
   "STARTING_BOT_MESSAGE":
   {
